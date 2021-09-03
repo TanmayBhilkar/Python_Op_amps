@@ -26,3 +26,25 @@ Many websites were available which would implement only one of the features of o
  * This project can be used colleges/universities,labs or even for individual uses.
 
 ### How:
+
+
+## Features
+| Sl. No. | Component | Description |
+| ------- | ----------- | ------------- |
+| 01| OP-AMP |Just to check Whether the given parameter forms the given Amplifier or Not. and Find out the output Voltage|
+
+
+## High Level Requirements: 
+| ID | Description | Status |
+| ----- | ----------- | ------- |
+| HR01 | Op-Amp Application Should Print Voltage to User| Implemented |
+ 
+
+##  Low level Requirements:
+ 
+| ID | Description | HR ID | Status |
+| ------ | --------- | ------ | ----- |
+| LR5.1 | Application should be able to take input of  in the given range | HR01 | Implemented |
+| LR6.2 | Application Should be Able to Take correct Op_AMP| HR01 | Implemented |
+| LR6.3 | Application Should Be Able to Give Output According to the Op-Amp| HR01| Implemented |
+
