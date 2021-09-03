@@ -14,9 +14,9 @@
 * There Are two main files Named as opamp.py  and test_opamp.py
 * run through command  (pytest test_opamp.py --capture=no)
 
-| Code Quality | Code inspector |pylint score|pylint Badge|
-|------------- |---------------|------------|-------------|
-|![code_grade](https://www.code-inspector.com/project/27258/status/svg)|![qulaity](https://www.code-inspector.com/project/27258/score/svg) |7.3/10|[![Pylint](https://github.com/TanmayBhilkar/Python_Op_amps/actions/workflows/pylint.yml/badge.svg)](https://github.com/TanmayBhilkar/Python_Op_amps/actions/workflows/pylint.yml) |         
+| Code Quality | Code inspector |pylint score|pylint Badge|git inspector|
+|------------- |---------------|------------|-------------|-------------|
+|![code_grade](https://www.code-inspector.com/project/27258/status/svg)|![qulaity](https://www.code-inspector.com/project/27258/score/svg) |7.3/10|[![Pylint](https://github.com/TanmayBhilkar/Python_Op_amps/actions/workflows/pylint.yml/badge.svg)](https://github.com/TanmayBhilkar/Python_Op_amps/actions/workflows/pylint.yml) | [![Contribution Check - Git Inspector](https://github.com/TanmayBhilkar/Python_Op_amps/actions/workflows/inspector.yml/badge.svg)](https://github.com/TanmayBhilkar/Python_Op_amps/actions/workflows/inspector.yml)|        
 
 
 
