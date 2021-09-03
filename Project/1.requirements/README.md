@@ -26,6 +26,7 @@ Many websites were available which would implement only one of the features of o
  * This project can be used colleges/universities,labs or even for individual uses.
 
 ### How:
+ * steps are given through readme file 
 
 
 ## Features
