@@ -13,7 +13,10 @@
 * with test cases follow the following
 * There Are two main files Named as opamp.py  and test_opamp.py
 * run through command  (pytest test_opamp.py --capture=no)
-* ![Code_grade](https://www.code-inspector.com/project/27258/score/svg)
+
+| Build | Code Coverage | CppCheck | Unity | Git Inspector | Code_Ac| Codacy | Valgrind |
+|-------|---------------|----------|-------|---------------|--------|-------|-----------|
+
 
 
 
