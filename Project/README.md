@@ -16,7 +16,7 @@
 
 | Code Quality | Code inspector |pylint score|
 |------------- |---------------|------------|
-|![code_grade](https://www.code-inspector.com/project/27258/status/svg)|![qulaity](https://www.code-inspector.com/project/27258/score/svg) |7.3|          
+|![code_grade](https://www.code-inspector.com/project/27258/status/svg)|![qulaity](https://www.code-inspector.com/project/27258/score/svg) |7.3/10|          
 
 
 
