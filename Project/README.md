@@ -14,9 +14,9 @@
 * There Are two main files Named as opamp.py  and test_opamp.py
 * run through command  (pytest test_opamp.py --capture=no)
 
-| Code Quality | Code Coverage | 
-|------------- |---------------|
-|![code_grade](https://www.code-inspector.com/project/27258/status/svg)|           
+| Code Quality | Code Coverage |pylint score|
+|------------- |---------------|------------|
+|![code_grade](https://www.code-inspector.com/project/27258/status/svg)| |7.3|          
 
 
 
