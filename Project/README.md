@@ -1,5 +1,5 @@
 # op_Amps Desgining and it's OUTPUT
-## 1.Inverting Ampplifier
+## 1.Inverting Amplifier
 ## 2.Non-Inverting Amplifier
 ## 3.Differntiator
 ## 4. Summing Amplifier
